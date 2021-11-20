@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UMR</string>
+    <string name="usuario">Usuario:</string>
+    <string name="info">¿Tienes dudas, quejas o sugerencias para la aplicación? Deja tu mensaje aquí abajo:</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="correo2">Correo electrónico de contacto</string>
+    <string name="password">Contraseña</string>
+    <string name="msg">Escribe aquí tu mensaje</string>
+</resources>
